@@ -13,6 +13,21 @@
 <a href="https://instagram.com/kalebe321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalebe321" height="30" width="40" /></a>
 </p>
 
+# 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
+<table>
+   <div align="center">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&theme=gotham&hide"/> <br>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnator&theme=gotham&hide" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnator&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
+  </div>
+</table>
+<table>
+  <div align="center">
+      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnator&theme=gotham&hide" />
+  </div>
+</table>
+<br>
+
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
