@@ -16,14 +16,14 @@
 # 📊 Estatísticas no GitHub e 🔝 Linguagens mais usadas
 <table>
    <div align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnator&layout=compact&theme=gotham&hide"/> <br>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnator&theme=gotham&hide" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnator&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebeasilvadev&layout=compact&theme=gotham&hide"/> <br>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kalebeasilvadev&theme=gotham&hide" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalebeasilvadev&theme=gotham&hide&hide_border=false&include_all_commits=false&count_private=true" />    
   </div>
 </table>
 <table>
   <div align="center">
-      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelnator&theme=gotham&hide" />
+      <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalebeasilvadev&theme=gotham&hide" />
   </div>
 </table>
 <br>
