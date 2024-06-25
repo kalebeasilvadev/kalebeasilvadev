@@ -56,3 +56,32 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="sqlalchemy" width="40" height="40"/> </a>
 </p>
+
+
+# 🏅 Conquistas no GitHub
+
+<br>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Conquistas no GitHub" src="https://github-profile-trophy.vercel.app/?username=kalebeasilvadev&theme=discord&no-frame=true&column=7">
+</a>
+  
+<br>
+
+<div  align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+<div/>
+
